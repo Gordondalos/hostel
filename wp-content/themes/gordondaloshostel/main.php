@@ -1,3 +1,8 @@
+<?php
+/*
+Template Name: Шаблон главной страницы
+*/
+?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 
@@ -27,7 +32,14 @@ get_header(); ?>
     =========================================================-->
 	<main>
 
-		<?php include "template-parts/mycontent.php" ?>
+<!--Верхний паралакс-->
+<!--		--><?php //include "template-parts/section_up_paralax.php" ?>
+<!--Продаваемые штуки-->
+		<?php include "template-parts/sale.php" ?>
+<!--Преимущество-->
+		<?php include "template-parts/advantage.php" ?>
+
+		<?php include "template-parts/map.php" ?>
 	</main>
 
 

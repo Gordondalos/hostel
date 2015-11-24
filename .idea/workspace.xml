@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8481a0e7-e1a0-470b-a9a0-4333c101280e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/mycontent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hostel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,61 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="989" column="14" selection-start-line="989" selection-start-column="14" selection-end-line="989" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.8">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52380955">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.6315789">
+              <caret line="1000" column="18" selection-start-line="1000" selection-start-column="18" selection-end-line="1000" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/map.php">
+      <file leaf-file-name="mycontent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/mycontent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sale.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="2" />
+            <state vertical-scroll-proportion="-1.4">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -107,12 +82,14 @@
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/slider_up.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/advantage.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/map.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/main.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/mycontent.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" />
       </list>
     </option>
   </component>
@@ -266,6 +243,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hostel\wp-content\themes\gordondaloshostel" />
       <recent name="C:\xampp\htdocs\hostel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -473,14 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/main_menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2380953">
@@ -528,14 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -544,18 +506,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="989" column="14" selection-start-line="989" selection-start-column="14" selection-end-line="989" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.8">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.52380955">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -568,10 +522,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52380955">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0952381">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#50#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11904762">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/mycontent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6315789">
+          <caret line="1000" column="18" selection-start-line="1000" selection-start-column="18" selection-end-line="1000" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -989,3 +989,17 @@ main .entry-content{
 .map{
 	margin: 25px 0 0;
 }
+.mycontent{
+	color: black;
+	font-size: 14px;
+	border-top:4px solid #6495B3;
+	padding: 50px 0;
+
+}
+
+.mycontent h2{
+	color: #6495B3;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 600;
+}
