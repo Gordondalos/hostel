@@ -28,7 +28,7 @@ get_header(); ?>
 	<main>
 
 <!--Верхний паралакс-->
-		<?php include "template-parts/section_up_paralax.php" ?>
+<!--		--><?php //include "template-parts/section_up_paralax.php" ?>
 <!--Продаваемые штуки-->
 		<?php include "template-parts/sale.php" ?>
 <!--Преимущество-->

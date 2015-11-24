@@ -933,3 +933,53 @@ header .entry-content{
 	color: white;
 
 }
+
+/*Синенький треугольник меню*/
+.navbar-nav > li > a:before {
+	color: #6495B3;
+	border-color: transparent transparent #6495B3 transparent;
+	bottom: -4px;
+
+}
+
+.menu-main-container{
+	/*border-bottom: 6px solid #6495B3;*/
+}
+
+main .entry-content{
+	margin-top: -23px;
+}
+
+.info-block:before{
+	bottom: 0;
+	top:0;
+}
+
+.bg-info p{
+	font-size: 14px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+
+.bg-info  h3{
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+.bg-info p a{
+	font-size: 17px;
+	margin-top: 10px;
+	z-index: 10;
+
+}
+
+.btn span {
+	position: absolute;
+	z-index: 2;
+	color: #fff;
+
+}
+
+.btn span:visited, span:hover{
+	color: #fff;
+}
