@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html <?php language_attributes(); ?>>
+
 <?php
 /**
  * The template for displaying all pages.
@@ -16,43 +19,23 @@ get_header(); ?>
 <body>
 <div class="page">
 
+<!--	ÐŸÐ°Ñ€Ð°Ð»Ð°ÐºÑ + Ð¼ÐµÐ½ÑŽ-->
+
 	<?php include "template-parts/header.php" ?>
 	<!--========================================================
                               CONTENT
     =========================================================-->
-
 	<main>
 
-<!--Âåðõíèé ïàðàëàêñ-->
+<!--Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ Ð¿Ð°Ñ€Ð°Ð»Ð°ÐºÑ-->
 		<?php include "template-parts/section_up_paralax.php" ?>
-<!--Ïðîäàâàåìûå øòóêè-->
+<!--ÐŸÑ€Ð¾Ð´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ ÑˆÑ‚ÑƒÐºÐ¸-->
 		<?php include "template-parts/sale.php" ?>
-<!--Ïðåèìóùåñòâî-->
+<!--ÐŸÑ€ÐµÐ¸Ð¼ÑƒÑ‰ÐµÑÑ‚Ð²Ð¾-->
 		<?php include "template-parts/advantage.php" ?>
 
 		<?php include "template-parts/map.php" ?>
 	</main>
-
-
-
-
-
-
-
-
-<!--			--><?php //while ( have_posts() ) : the_post(); ?>
-<!---->
-<!--				--><?php //get_template_part( 'template-parts/content', 'page' ); ?>
-<!---->
-<!--				--><?php
-
-//					if ( comments_open() || get_comments_number() ) :
-//						comments_template();
-//					endif;
-//				?>
-<!---->
-<!--			--><?php //endwhile;  ?>
-
 
 
 <?php //get_sidebar(); ?>
