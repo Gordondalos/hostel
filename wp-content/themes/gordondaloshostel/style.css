@@ -911,3 +911,25 @@ object {
 .navbar-brand{
 	margin-top: 50px;
 }
+
+.navbar-header a{
+	width: 260px;
+	height: 147px;
+
+}
+
+header .entry-content{
+	margin-top: -15px;
+}
+.phone_lang{
+	position: absolute;
+	text-align: center;
+	font-size: 18px;
+	z-index: 20;
+	color: white;
+	margin-top: 40px;
+}
+.phone_lang a{
+	color: white;
+
+}
