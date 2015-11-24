@@ -907,3 +907,7 @@ object {
 .jumbotron{
 	top: 35%;
 }
+
+.navbar-brand{
+	margin-top: 50px;
+}

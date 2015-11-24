@@ -56,7 +56,7 @@
 							.css({visibility:'visible'})
 							.animate({
 								top:0
-								,marginTop:opened?50:0
+								,marginTop:opened?0:0
 							},{
 
 							})
