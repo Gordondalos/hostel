@@ -951,9 +951,11 @@ main .entry-content{
 }
 
 .info-block:before{
-	bottom: 0;
-	top:0;
+	bottom: 23px;
+	top:-25px;
 }
+
+
 
 .bg-info p{
 	font-size: 14px;
