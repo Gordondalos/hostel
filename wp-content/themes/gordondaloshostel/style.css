@@ -985,3 +985,7 @@ main .entry-content{
 .btn span:visited, span:hover{
 	color: #fff;
 }
+
+.map{
+	margin: 25px 0 0;
+}
