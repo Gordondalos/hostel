@@ -47,8 +47,43 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
+@font-face {
+	font-family: 'nautiluspompilius';
+	font-style: italic;
+	font-weight: 700;
+	src: url(fonts/nautiluspompilius.woff2) format('woff2');
+
+}
+
+@font-face {
+	font-family: 'nautiluspompilius';
+	font-style: italic;
+	font-weight: 700;
+	src: url(fonts/nautiluspompilius.woff) format('woff');
+
+}
+
+@font-face {
+	font-family: 'nautiluspompilius';
+	font-style: italic;
+	font-weight: 700;
+	src: url(fonts/nautiluspompilius.ttf) format('ttf');
+
+}
+
+@font-face {
+	font-family: 'nautiluspompilius';
+	font-style: italic;
+	font-weight: 700;
+	src: url(fonts/Nautilus.otf) format('otf');
+
+}
+
+
+
+
 html {
-	font-family: sans-serif;
+	font-family: nautiluspompilius, sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust:     100%;
 }
@@ -272,9 +307,9 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	font-family:  sans-serif;
 	font-size: 16px;
-	font-size: 1rem;
+
 	line-height: 1.5;
 }
 
@@ -919,7 +954,7 @@ object {
 }
 
 header .entry-content{
-	margin-top: -15px;
+	margin-top: -25px;
 }
 .phone_lang{
 	position: absolute;
@@ -1002,4 +1037,18 @@ main .entry-content{
 	text-align: center;
 	font-size: 30px;
 	font-weight: 600;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: nautiluspompilius, sans-serif;
+
+}
+
+#menu-main a{
+	font-family: nautiluspompilius, sans-serif;
+}
+
+.jumbotron h3, .jumbotron p{
+	font-family: nautiluspompilius, sans-serif;
+
 }
