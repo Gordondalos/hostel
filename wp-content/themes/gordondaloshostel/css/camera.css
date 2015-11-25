@@ -196,6 +196,9 @@
     display: none;
   }
 }
+
+
+
 .camera_next:before {
   position: absolute;
   content: '\f105';

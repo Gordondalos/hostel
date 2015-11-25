@@ -1,4 +1,10 @@
 
+<!--JS-->
+<script src="<?php bloginfo('template_directory')?>/js/jquery.js"></script>
+<script src="<?php bloginfo('template_directory')?>/js/jquery-migrate-1.2.1.min.js"></script>
+
+
+
 <script src="<?php bloginfo('template_directory')?>/js/bootstrap.min.js"></script>
 <script src="<?php bloginfo('template_directory')?>/js/tm-scripts.js"></script>
 

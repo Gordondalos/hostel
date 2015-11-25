@@ -29,10 +29,6 @@
 	<link rel="<?php bloginfo('template_directory')?>/stylesheet" href="css/google-map.css">
 
 
-	<!--JS-->
-	<script src="<?php bloginfo('template_directory')?>/js/jquery.js"></script>
-	<script src="<?php bloginfo('template_directory')?>/js/jquery-migrate-1.2.1.min.js"></script>
-
 
 
 
