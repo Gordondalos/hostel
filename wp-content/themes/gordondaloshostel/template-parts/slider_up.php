@@ -5,7 +5,7 @@ while($query1->have_posts()) $query1->the_post(); ;?>
     <?php the_content(); ?>
 </div> <?php wp_reset_query();
 ?>
-
+<a href="#" id="toTop" class="toTop fa fa-angle-up" style="display: block;"></a>
 
 <!--<div class="container-fluid cf">-->
 <!---->

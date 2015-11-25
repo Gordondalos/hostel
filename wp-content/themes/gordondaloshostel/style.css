@@ -975,8 +975,8 @@ main .entry-content{
 }
 
 .info-block:before{
-	bottom: 23px;
-	top:-25px;
+	bottom: 51px;
+	top:-57px;
 }
 
 
@@ -1380,5 +1380,11 @@ h1,h2,h3,h4,h5,h6{
 @media screen and (max-width: 600px){
 	#myCarousel{
 		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	body {
+		padding-top: 0;
 	}
 }
