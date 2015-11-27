@@ -50,23 +50,23 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 
 @font-face {
-	font-family: 'nautiluspompilius';
+	font-family: 'calibrib';
 	font-style: italic;
 	font-weight: 700;
-	src: url(fonts/nautiluspompilius.woff) format('woff');
+	src: url(fonts/calibrib.woff) format('woff');
 
 }
 
 @font-face {
-	font-family: 'nautiluspompilius';
+	font-family: 'calibrib';
 	font-style: italic;
 	font-weight: 700;
-	src: url(fonts/nautiluspompilius.ttf) format('ttf');
+	src: url(fonts/calibrib.ttf) format('ttf');
 
 }
 
 @font-face {
-	font-family: 'nautiluspompilius';
+	font-family: 'calibrib';
 	font-style: italic;
 	font-weight: 700;
 	src: url(fonts/Nautilus.otf) format('otf');
@@ -77,7 +77,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 
 html {
-	font-family: nautiluspompilius, sans-serif;
+	font-family: calibrib, sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust:     100%;
 }
@@ -1040,21 +1040,21 @@ main .entry-content{
 }
 
 h1,h2,h3,h4,h5,h6{
-	font-family: nautiluspompilius, sans-serif;
+	font-family: calibrib, sans-serif;
 
 }
 
 #menu-main a{
-	font-family: nautiluspompilius, sans-serif;
+	font-family: calibrib, sans-serif;
 }
 
 .jumbotron h3, .jumbotron p{
-	font-family: nautiluspompilius, sans-serif;
+	font-family: calibrib, sans-serif;
 
 }
 
 .menu-item-type-post_type a{
-	font-family: nautiluspompilius, sans-serif;
+	font-family: calibrib, sans-serif;
 }
 
 
