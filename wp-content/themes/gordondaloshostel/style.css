@@ -975,11 +975,28 @@ main .entry-content{
 }
 
 .info-block:before{
-	bottom: 51px;
-	top:-57px;
+	height: 100%;
 }
 
 
+.info-block:before{
+	z-index: 0;
+}
+
+.img-wr{
+	padding: 2px;
+}
+
+.info-block_mod{
+	padding-top: 55px;
+	padding-bottom: 73px;
+}
+
+.bg-info{
+	padding-top: 0;
+	
+	
+}
 
 .bg-info p{
 	font-size: 14px;
@@ -1341,6 +1358,23 @@ h1,h2,h3,h4,h5,h6{
 .entry-content{
 	margin-bottom: -50px;
 }
+
+
+.about{
+	margin: 0px auto 100px;
+	border-top: 4px solid #6495B3;
+	padding-top: 50px;
+}
+
+.about h2{
+	color: #6495b3;
+	font-size: 30px;
+}
+
+.about p, .mycontrnt p{
+	margin-top: 50px;
+}
+
 
 
 @media screen and (max-width: 1200px){

@@ -35,7 +35,12 @@ get_header(); ?>
 <!--Верхний паралакс-->
 <!--		--><?php //include "template-parts/section_up_paralax.php" ?>
 <!--Продаваемые штуки-->
+		<!-- Текст о нас -->
+		<?php include "template-parts/about.php" ?>
+
 		<?php include "template-parts/sale.php" ?>
+
+
 <!--Преимущество-->
 		<?php include "template-parts/advantage.php" ?>
 
