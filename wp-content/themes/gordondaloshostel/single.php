@@ -7,28 +7,29 @@
  * @package gordondaloshostel
  */
 
-get_header(); ?>
+ ?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
+<!DOCTYPE html>
+<html <?php language_attributes(); ?>>
+<?php get_header(); ?>
+<body>
+<div class="page">
 
-		<?php while ( have_posts() ) : the_post(); ?>
+	<!--	Паралакс + меню-->
 
-			<?php get_template_part( 'template-parts/content', 'single' ); ?>
+	<?php include "template-parts/header.php" ?>
+	<!--========================================================
+                              CONTENT
+    =========================================================-->
+	<main>
 
-			<?php the_post_navigation(); ?>
+		<?php include "template-parts/mycontent.php" ?>
+	</main>
 
-			<?php
-				// If comments are open or we have at least one comment, load up the comment template.
-				if ( comments_open() || get_comments_number() ) :
-					comments_template();
-				endif;
-			?>
 
-		<?php endwhile; // End of the loop. ?>
+	<?php //get_sidebar(); ?>
+	<?php get_footer(); ?>
+	<?php include "template-parts/js.php" ?>
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
-
-<?php get_sidebar(); ?>
-<?php get_footer(); ?>
+</body>
+</html>

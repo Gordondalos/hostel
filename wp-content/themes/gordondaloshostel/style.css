@@ -47,13 +47,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
-@font-face {
-	font-family: 'nautiluspompilius';
-	font-style: italic;
-	font-weight: 700;
-	src: url(fonts/nautiluspompilius.woff2) format('woff2');
 
-}
 
 @font-face {
 	font-family: 'nautiluspompilius';
@@ -1361,7 +1355,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 .about{
-	margin: 0px auto 100px;
+	margin: 23px auto 100px;
 	border-top: 4px solid #6495B3;
 	padding-top: 50px;
 }
@@ -1375,6 +1369,14 @@ h1,h2,h3,h4,h5,h6{
 	margin-top: 50px;
 }
 
+
+.entry p{
+	text-align: justify;
+}
+
+.mycontent p {
+	text-align: justify;
+}
 
 
 @media screen and (max-width: 1200px){

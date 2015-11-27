@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/category.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/header.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/main.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/page.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/about.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/advantage.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/content_category.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/header.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/map.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/mycontent.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/slider_up.php" charset="UTF-8" />
   </component>
