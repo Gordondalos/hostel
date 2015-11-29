@@ -13,9 +13,9 @@
                         <a href="?page_id=2&lang=ru"> Руc</a> <br>
                         <a href="?page_id=61&lang=en"> Eng</a>
                     </div>
-                    <a class="social" href="#"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
+                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
                                                      alt="logo"></a>
-                    <a class="social" href="#"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
+                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
                 </div>
 
                 <?php wp_nav_menu(array('menu' => 'main', 'menu_class' => 'navbar-nav sf-menu', 'data-type' => 'navbar')); ?>

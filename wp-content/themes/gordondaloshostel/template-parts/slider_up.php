@@ -18,29 +18,32 @@
 
 
     <div class="carousel-inner" role="listbox">
-        <div class="item">
+        <div class="item active">
             <img src="<?php bloginfo('template_directory') ?>/img/page-1_slide01.jpg" alt="">
 
+
             <div class="container-fluide">
+
                 <div class="carousel-caption">
                     <h2>#UlaHostel</h2>
 
-                    <p>Note: If you're viewing this page via a
-                        <code>file://</code> URL, the "next" and "previous" <br> Glyphicon buttons on the left and right might
-                        not load/display properly due to web browser security rules.
-                    </p>
-
+                   <p>Мы уже ждем вас.</p>
+                    <a href="#" class="btn btn-success btn-lg">Бронировать</a>
                 </div>
+
+
             </div>
+
+
         </div>
-        <div class="item active">
+        <div class="item ">
             <img src="<?php bloginfo('template_directory') ?>/img/page-1_slide02.jpg" alt="">
 
             <div class="container-fluide">
                 <div class="carousel-caption">
-                    <h2>Another example headline.</h2>
+                    <h2>Декабристов, 22</h2>
 
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. <br> Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                    <p>Удобное расположение</p>
 
                 </div>
             </div>
@@ -50,14 +53,18 @@
 
             <div class="container-fluide">
                 <div class="carousel-caption">
-                    <h2>Another example headline.</h2>
+                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
+                                                                            alt="logo"></a>
+                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
 
-                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. <br> Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+
+                    <p>Присоединяйтесь к нам в instagram и vk</p>
 
                 </div>
             </div>
         </div>
     </div>
+
 
 
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
