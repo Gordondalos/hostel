@@ -44,7 +44,7 @@
                     <h2>Декабристов, 22</h2>
 
                     <p>Удобное расположение</p>
-
+                    <a href="#" class="btn btn-success btn-lg">Бронировать</a>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
 
 
                     <p>Присоединяйтесь к нам в instagram и vk</p>
-
+                    <a href="#" class="btn btn-success btn-lg">Бронировать</a>
                 </div>
             </div>
         </div>

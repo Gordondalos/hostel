@@ -1552,7 +1552,7 @@ a.social img{
 }
 
 main .entry-content{
-	margin-top: -23px;
+
 }
 
 .info-block:before{
@@ -2054,6 +2054,32 @@ h1,h2,h3,h4,h5,h6{
 	margin: 0 -8px;
 
 }
+
+
+
+.parallax_image{
+	max-height: 700px;
+}
+
+.parallax_cnt{
+	margin-top: 0;
+
+}
+
+.parallax_cnt .row{
+	margin-top: 20px;
+
+}
+
+.icon-list li:before{
+	border: 2px solid #fff;
+
+}
+
+.icon-list li span{
+	color: snow;
+}
+
 
 
 
