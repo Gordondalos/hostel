@@ -16,16 +16,16 @@
                         FOOTER
 =========================================================-->
 <?php
-$query1 = new WP_Query('page_id=53');
-while($query1->have_posts()) $query1->the_post(); ;?>
-<div class="entry-content">
-	<?php the_content(); ?>
-</div> <?php wp_reset_query();
-?>
+//$query1 = new WP_Query('page_id=53');
+//while($query1->have_posts()) $query1->the_post(); ;?>
+<!--<div class="entry-content">-->
+<!--	--><?php //the_content(); ?>
+<!--</div> --><?php //wp_reset_query();
+//?>
 
-<!---->
-<!--<footer>-->
-<!---->
+
+<footer>
+
 <!--	<section class="foot-top bg-primary center767">-->
 <!--		<div class="container">-->
 <!--			<div class="row">-->
@@ -102,18 +102,41 @@ while($query1->have_posts()) $query1->the_post(); ;?>
 <!--			</div>-->
 <!--		</div>-->
 <!--	</section>-->
-<!---->
-<!--	<section class="foot-bot text-center">-->
-<!--		<div class="container">-->
-<!--			<p class="rights">-->
-<!--				Palerno &#169; <span id="copyright-year"></span>&nbsp;-->
-<!--				<a href="index-5.html">Privacy Policy</a>-->
-<!--
-<!--			</p>-->
-<!--		</div>-->
-<!--	</section>-->
-<!--</footer>-->
-<!--</div>-->
+
+	<section class="foot-bot text-center">
+		<div class="container">
+            <div class="row">
+                <div class="logo col-sm-6">
+                    <a href="/">
+                        <img src="<?php bloginfo('template_directory') ?>/img/logo.png" alt="logo">
+                    </a>
+
+
+                    <div class="lang">
+                        <a href="?page_id=2&lang=ru"> Руc</a> <br>
+                        <a href="?page_id=61&lang=en"> Eng</a>
+                    </div>
+                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
+                                                                            alt="logo"></a>
+                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
+                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
+                </div>
+<div class="col-sm-6 adress">
+    <ul>
+        <li>Питербург, ул. Декабристов, 22</li>
+        <li><i class="fa fa-phone-square"></i>+7(333)555-55-55</li>
+        <li>pochta@example.com</li>
+    </ul>
+</div>
+
+                
+
+
+            </div>
+		</div>
+	</section>
+</footer>
+</div>
 
 
 

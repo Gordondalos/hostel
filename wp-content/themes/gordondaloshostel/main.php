@@ -44,7 +44,7 @@ get_header(); ?>
 <!--Преимущество-->
 		<?php include "template-parts/advantage.php" ?>
 
-		<?php include "template-parts/map.php" ?>
+		<?php include "template-parts/slider_down.php"?>
 	</main>
 
 

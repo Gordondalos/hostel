@@ -2080,6 +2080,49 @@ h1,h2,h3,h4,h5,h6{
 	color: snow;
 }
 
+.slider_down{
+	text-align: center;
+	max-height: 500px;
+	margin-bottom: 100px;
+}
+
+.slider_down h2, .slider_down h6{
+	color: #000;
+
+}
+
+.slider_down .item{
+	max-height: 500px;
+}
+
+.slider_down .carousel-caption{
+	background-color: rgba(255,255,255,0.7) ;
+}
+
+.slider_down h6{
+	color: #000;
+	font-size: 25px;
+
+
+}
+
+.slider_down img{
+	height: 500px;
+	width: 100%;
+}
+
+.foot-bot{
+	margin-top: 165px;
+}
+
+
+.adress{
+	color: white;
+}
+
+.adress ul{
+	margin: 10px;
+}
 
 
 
