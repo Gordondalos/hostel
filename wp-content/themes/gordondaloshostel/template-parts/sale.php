@@ -21,7 +21,7 @@
                         Lorem Ipsum является стандартной «рыбой»
                         для текстов на латинице с начала XVI века.
                     </p>
-                    <h5>500р/сутки</h5>
+                    <h6>500р/сутки</h6>
                     <br>
                     <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
                     <span>1-10</span>
@@ -31,7 +31,7 @@
         </div>
         <div class="col-md-3 ">
             <div class="bg-item-2 item">
-                <div class="text">
+                <div class="text1">
                     <h4>Синяя Юла</h4>
 
                     <p>Lorem Ipsum — это текст-«рыба»,
@@ -39,7 +39,7 @@
                         Lorem Ipsum является стандартной «рыбой»
                         для текстов на латинице с начала XVI века.
                     </p>
-                    <h5>550р/сутки</h5>
+                    <h6>550р/сутки</h6>
                     <br>
                     <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
                     <span>1-8</span>
@@ -48,21 +48,37 @@
             </div>
         </div>
         <div class="col-md-5 ">
-            <div class="bg-item-1 item">
-                <div class="text">
-                    <h4>Фиолетовая Юла</h4>
+            <div class="bg-item-3 item">
+                <div class="text2">
+                    <h4>Бирюзовая Юла</h4>
                     <p>Lorem Ipsum — это текст-«рыба»,
                         часто используемый в печати и вэб-дизайне.
                         Lorem Ipsum является стандартной «рыбой»
                         для текстов на латинице с начала XVI века.
                     </p>
-                    <h4>500р/сутки</h4>
-                    <br>
+                    <h6>600р/сутки</h6>
+
                     <img src="<?php bloginfo('template_directory')?>/img/bed.png" alt="bed">
-                    <span>1-10</span>
+                    <span>1-6</span>
 
                 </div>
             </div>
+            <div class="bg-item-4 item">
+                <div class="text2">
+                    <h4>Бирюзовая Юла</h4>
+                    <p>Lorem Ipsum — это текст-«рыба»,
+                        часто используемый в печати и вэб-дизайне.
+                        Lorem Ipsum является стандартной «рыбой»
+                        для текстов на латинице с начала XVI века.
+                    </p>
+                    <h6>600р/сутки</h6>
+
+                    <img src="<?php bloginfo('template_directory')?>/img/bed.png" alt="bed">
+                    <span>1-6</span>
+
+                </div>
+            </div>
+
 
         </div>
     </div>

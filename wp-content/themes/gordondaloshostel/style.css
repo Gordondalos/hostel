@@ -1874,7 +1874,24 @@ h1,h2,h3,h4,h5,h6{
 
 .sale .bg-item-2{
 	position: relative;
-	background-image: url("img/page-1_slide01.jpg");
+	background-image: url("img/page-1_img06.jpg");
+	background-position: center;
+	background-size: cover;
+
+}
+
+.sale .bg-item-3{
+	 position: relative;
+	 background-image: url("img/page-1_img04.jpg");
+	 background-position: center;
+	 background-size: cover;
+
+ }
+
+
+.sale .bg-item-4{
+	position: relative;
+	background-image: url("img/page-1_img05.jpg");
 	background-position: center;
 	background-size: cover;
 
@@ -1892,16 +1909,59 @@ h1,h2,h3,h4,h5,h6{
 
 
 }
+
+.sale .text1{
+	background-color: rgba(0, 0, 100, 0.7);
+	text-align: center;
+	color: #fff;
+	width: 100%;
+	height: 550px;
+	padding: 100px 10px;
+	opacity: 0;
+
+
+}
+
+
+.sale .text2{
+	background-color: rgba(0, 197, 205, 0.7);
+	text-align: center;
+	color: #fff;
+	width: 100%;
+	height: 267px;
+	padding: 20px 10px;
+	opacity: 0;
+	margin-bottom: 15px ;
+
+}
+
+.sale .text2 h6{
+	margin: 0;
+}
+
 .sale .text:hover{
 	opacity: 1;
 	cursor: pointer;
 	transition: 0.8s ease ;
 }
 
-.sale .text img{
+.sale .text1:hover{
+	opacity: 1;
+	cursor: pointer;
+	transition: 0.8s ease ;
+}
+.sale .text2:hover{
+	opacity: 1;
+	cursor: pointer;
+	transition: 0.8s ease ;
+}
+
+.sale .text img, .sale .text1 img, .sale .text2 img{
 	display: inline-block;
 	margin-top: -8px;
 }
+
+
 
 .sale h2{
 	text-align: center;
