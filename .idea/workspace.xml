@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8481a0e7-e1a0-470b-a9a0-4333c101280e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" />
     </list>
     <ignored path="hostel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69078946">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1928" column="0" selection-start-line="1928" selection-start-column="0" selection-end-line="1928" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sale.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sale.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.2">
-              <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.7619048">
+              <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -83,8 +82,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/main_menu.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/slider_up.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/main.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php" />
       </list>
     </option>
   </component>
@@ -751,18 +750,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.2">
-          <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1928" column="0" selection-start-line="1928" selection-start-column="0" selection-end-line="1928" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondaloshostel/template-parts/sale.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69078946">
-          <caret line="1928" column="0" selection-start-line="1928" selection-start-column="0" selection-end-line="1928" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7619048">
+          <caret line="166" column="20" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="20" />
           <folding />
         </state>
       </provider>

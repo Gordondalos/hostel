@@ -13,70 +13,80 @@
     <div class="row">
         <div class="col-md-4 ">
             <div class="bg-item-1 item">
-                <div class="text">
-                    <h4>Фиолетовая Юла</h4>
+                <a href="?page_id=6">
+                    <div class="text">
+                        <h4>Фиолетовая Юла</h4>
 
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>500р/сутки</h6>
-                    <br>
-                    <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
-                    <span>1-10</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>500р/сутки</h6>
+                        <br>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-10</span>
 
-                </div>
+                    </div>
+                </a>
             </div>
         </div>
         <div class="col-md-3 ">
             <div class="bg-item-2 item">
-                <div class="text1">
-                    <h4>Синяя Юла</h4>
+                <a href="?page_id=6">
+                    <div class="text1">
+                        <h4>Синяя Юла</h4>
 
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>550р/сутки</h6>
-                    <br>
-                    <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
-                    <span>1-8</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>550р/сутки</h6>
+                        <br>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-8</span>
 
-                </div>
+                    </div>
+                </a>
             </div>
         </div>
         <div class="col-md-5 ">
             <div class="bg-item-3 item">
-                <div class="text2">
-                    <h4>Бирюзовая Юла</h4>
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>600р/сутки</h6>
+                <a href="?page_id=6">
+                    <div class="text2">
+                        <h4>Бирюзовая Юла</h4>
 
-                    <img src="<?php bloginfo('template_directory')?>/img/bed.png" alt="bed">
-                    <span>1-6</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>600р/сутки</h6>
 
-                </div>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-6</span>
+
+                    </div>
+                </a>
             </div>
             <div class="bg-item-4 item">
-                <div class="text3">
-                    <h4>Красная Юла</h4>
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>2000р/сутки</h6>
+                <a href="?page_id=6">
+                    <div class="text3">
+                        <h4>Красная Юла</h4>
 
-                    <img src="<?php bloginfo('template_directory')?>/img/bed.png" alt="bed">
-                    <span>1-2</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>2000р/сутки</h6>
 
-                </div>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-2</span>
+
+                    </div>
+                </a>
             </div>
 
 
@@ -85,66 +95,76 @@
     <div class="row">
         <div class="col-md-3 ">
             <div class="bg-item-5 item">
-                <div class="text4">
-                    <h4>Лаймовая Юла</h4>
+                <a href="?page_id=6">
+                    <div class="text4">
+                        <h4>Лаймовая Юла</h4>
 
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>600р/сутки</h6>
-                    <br>
-                    <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
-                    <span>1-6</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>600р/сутки</h6>
+                        <br>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-6</span>
 
-                </div>
+                    </div>
+                </a>
             </div>
         </div>
         <div class="col-md-4 ">
             <div class="bg-item-6 item">
-                <div class="text3">
-                    <h4>Красная Юла</h4>
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
-                    <h6>700р/сутки </h6>
+                <a href="?page_id=6">
+                    <div class="text3">
+                        <h4>Красная Юла</h4>
 
-                    <img src="<?php bloginfo('template_directory')?>/img/bed.png" alt="bed">
-                    <span>1-4</span>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
+                        <h6>700р/сутки </h6>
 
-                </div>
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <span>1-4</span>
+
+                    </div>
+                    <a href="?page_id=6">
             </div>
             <div class="bg-item-7 item">
-                <div class="text2">
-                    <h4>Администрация</h4>
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
+                <a href="?page_id=6">
+                    <div class="text2">
+                        <h4>Администрация</h4>
+
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
 
 
-                </div>
+                    </div>
+                </a>
             </div>
 
 
         </div>
         <div class="col-md-5 ">
             <div class="bg-item-8 item">
-                <div class="text">
-                    <h4>Столовая</h4>
+                <a href="?page_id=6">
+                    <div class="text">
+                        <h4>Столовая</h4>
 
-                    <p>Lorem Ipsum — это текст-«рыба»,
-                        часто используемый в печати и вэб-дизайне.
-                        Lorem Ipsum является стандартной «рыбой»
-                        для текстов на латинице с начала XVI века.
-                    </p>
+                        <p>Lorem Ipsum — это текст-«рыба»,
+                            часто используемый в печати и вэб-дизайне.
+                            Lorem Ipsum является стандартной «рыбой»
+                            для текстов на латинице с начала XVI века.
+                        </p>
 
 
-                </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
