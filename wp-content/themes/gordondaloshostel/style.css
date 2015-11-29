@@ -952,16 +952,73 @@ header .entry-content{
 }
 
 
+.logo{
+	float: left;
+	max-height: 100px;
+	padding: 10px;
+
+}
+a.social img{
+	display: inline-block;
+	max-width: 40px;
+	margin-left: 20px;
+}
+
+.lang{
+	display: inline-block;
+	padding-left: 20px;
+	vertical-align: middle;
+	line-height: 30px;
+}
+
+
+
+.lang a{
+	color: #000;
+	font-weight: bold;
+
+}
+.navbar-nav{
+	margin-left: -124px;
+}
+
+.navbar-nav > li{
+	height: 100px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+}
+
+.navbar-nav > li > a{
+
+	vertical-align: middle;
+	display: inline;
+	line-height: 100px;
+}
+
 /*Синенький треугольник меню*/
 .navbar-nav > li > a:before {
 	color: #6495B3;
 	border-color: transparent transparent #6495B3 transparent;
 	bottom: -7px;
+	display: none;
+
+}
+
+.navbar-nav > li + li{
+	margin-left: 10px;
+}
+
+
+
+.phone{
+	display: inline-block;
+	float: right;
 
 }
 
 .menu-main-container{
-	/*border-bottom: 6px solid #6495B3;*/
+	height: 100px;
 }
 
 main .entry-content{
@@ -1239,11 +1296,13 @@ h1,h2,h3,h4,h5,h6{
 	margin: 0;
 	background-color: #fff;
 }
-.carousel-caption {
+.carousel-inner .carousel-caption {
 	position: absolute;
 	right: 15%;
-	bottom: 20px;
-	left: 15%;
+	bottom: 120px;
+	width: 100%;
+	background-color: rgba(0,0,0,0.7);
+	left: 0;
 	z-index: 10;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -1254,6 +1313,17 @@ h1,h2,h3,h4,h5,h6{
 .carousel-caption .btn {
 	text-shadow: none;
 }
+
+
+.bdcarusel{
+	width: 100%;
+	height: 200px;
+	top: 60px;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 1;
+}
+
 @media screen and (min-width: 768px) {
 	.carousel-control .glyphicon-chevron-left,
 	.carousel-control .glyphicon-chevron-right,
@@ -1308,21 +1378,6 @@ h1,h2,h3,h4,h5,h6{
 	}
 }
 
-
-.phone_lang{
-	position: absolute;
-	text-align: center;
-	font-size: 18px;
-	z-index: 20;
-	color: white;
-	margin-top: 40px;
-	width: 100%;
-}
-.phone_lang a{
-	color: white;
-
-}
-
 .container-fluid {
 	padding-right: 15px;
 	padding-left: 15px;
@@ -1335,9 +1390,6 @@ h1,h2,h3,h4,h5,h6{
 	background: #6495b3;
 }
 
-.wrap_phone_lang{
-	position: relative;
-}
 
 .carousel-caption{
 	position: absolute;
@@ -1380,14 +1432,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 @media screen and (max-width: 1200px){
-	.phone_lang{
-		position: relative;
 
-		display: inline-block;
-		margin-top: 0;
-		padding: 50px 0;
-		width: 100%;
-	}
 }
 
 
@@ -1407,9 +1452,7 @@ h1,h2,h3,h4,h5,h6{
 	.customize-support{
 		padding-top: 0;
 	}
-	.lang, .phone{
-		margin: 20px 0;
-	}
+
 }
 
 

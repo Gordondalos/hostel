@@ -1,6 +1,34 @@
 <div id="stuck_container" class="stuck_container">
     <nav class="navbar navbar-default navbar-static-top text-center">
 
+        <div class="container">
+            <div class="row">
+                <div class="logo">
+                    <a href="/">
+                        <img src="<?php bloginfo('template_directory') ?>/img/logo.png" alt="logo">
+                    </a>
+
+
+                    <div class="lang">
+                        <a href="?page_id=2&lang=ru"> Руc</a> <br>
+                        <a href="?page_id=61&lang=en"> Eng</a>
+                    </div>
+                    <a class="social" href="#"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
+                                                     alt="logo"></a>
+                    <a class="social" href="#"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
+                </div>
+
+                <?php wp_nav_menu(array('menu' => 'main', 'menu_class' => 'navbar-nav sf-menu', 'data-type' => 'navbar')); ?>
+
+
+            </div>
+
+
+        </div>
+
+    </nav>
+</div>
+
 <!--        <ul class="navbar-nav sf-menu " data-type="navbar">-->
 <!--            <li class="active">-->
 <!--                <a href="./">Home</a>-->
@@ -46,8 +74,5 @@
 
 
 <!--        </ul>-->
-        <?php wp_nav_menu( array('menu' => 'main','menu_class'=>'navbar-nav sf-menu', 'data-type'=>'navbar' )); ?>
 
 
-    </nav>
-</div>

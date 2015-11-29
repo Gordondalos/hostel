@@ -2,8 +2,8 @@
                           HEADER
 =========================================================-->
 <header>
-
+    <?php include "main_menu.php"?>
     <?php include "slider_up.php"?>
 
-    <?php include "main_menu.php"?>
+
 </header>
