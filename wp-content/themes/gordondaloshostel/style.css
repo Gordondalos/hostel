@@ -1614,7 +1614,6 @@ main .entry-content{
 .mycontent{
 	color: black;
 	font-size: 14px;
-	border-top:4px solid #6495B3;
 	padding: 50px 0;
 
 }
@@ -2210,7 +2209,7 @@ h1,h2,h3,h4,h5,h6{
 
 .about{
 	margin: 23px auto 100px;
-	border-top: 4px solid #6495B3;
+
 	padding-top: 50px;
 }
 
@@ -2240,6 +2239,110 @@ h1,h2,h3,h4,h5,h6{
 }
 .carousel-indicators{
 	bottom: -20px;
+}
+
+.img-post-wrap{
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+	border-radius: 3px;
+
+
+
+}
+.img-post-wrap:before{
+	width: 100%;
+	display: block;
+	content: "";
+}
+
+
+.img-post-wrap img{
+	min-width: 100%;
+	min-height: 100%;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+
+}
+.post_content{
+	text-align: left;
+	color: black;
+	margin-bottom: 40px;
+}
+
+
+
+.post_content .ditail{
+	display: inline-block;
+	background-color: #678510;
+	border-radius: 3px;
+	color: white;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	padding: 50px 10px;
+	font-size: 30px;
+	margin-left: -15px;
+
+}
+.post_content h3{
+	display: inline;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+}
+
+.post_content .text{
+	display: block;
+	height: 156px;
+	overflow: hidden;
+
+}
+
+.post_content a{
+	color: black;
+}
+
+.post_content .wrap_text{
+	height: 200px;
+}
+.post_content .wrap_text .row{
+	margin-top: 0;
+	background-color: #DBDBDB;
+	height: 44px;
+	padding-top: 12px;
+	font-weight: 600;
+}
+
+.wrap_text .row div{
+
+}
+
+
+.wrap_text .row img{
+	padding-right: 10px;
+	margin-top: -3px;
+}
+
+
+.post_content .text p{
+
+	padding: 5px; /* Поля вокруг текста */
+	text-overflow: ellipsis; /* Добавляем многоточие */
+}
+
+
+
+
+.post_content:after{
+	display: table;
+	width: 100%;
+	content: "";
+	clear: both;
 }
 
 
