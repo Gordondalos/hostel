@@ -50,13 +50,13 @@
 				.on('scroll',function(){
 					var scrollTop=doc.scrollTop()
 
-					if(scrollTop>=posY&&!isStuck){						
+					if(scrollTop>=posY&&!isStuck){
 						clone
 							.stop()
 							.css({visibility:'visible'})
 							.animate({
 								top:0
-								,marginTop:opened?0:0
+								,marginTop:opened?50:0
 							},{
 
 							})
@@ -65,19 +65,12 @@
 					}
 					
 					if(scrollTop<posY+height&&isStuck){
-						if ($('.search-form_toggle').length > 0) {
-							var o_stuck = $('.search-form_toggle'),
-							f_stuck = $('.search-form');
-
-							if (!anim && o_stuck.hasClass('active')) {
-								anim = true;
-								o_stuck.removeClass('active');
-								f_stuck.removeClass('on');
-								anim = false;
-							}
-						}
-
 						$('.sf-menu ul').css('display', 'none');
+
+						var sf = $('.search-form');
+						if(sf.length > 0){
+							sf.find('input').blur();
+						}
 
 						clone
 							.stop()

@@ -53,12 +53,12 @@
 
             <div class="container-fluide">
                 <div class="carousel-caption">
-                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
-                                                                            alt="logo"></a>
+                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png" alt="logo"></a>
                     <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
+                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
 
 
-                    <p>Присоединяйтесь к нам в instagram и vk</p>
+                    <p>Присоединяйтесь к нам <br> в Instagram, Вконтакте и Facebook</p>
                     <a href="#" class="btn btn-success btn-lg">Бронировать</a>
                 </div>
             </div>

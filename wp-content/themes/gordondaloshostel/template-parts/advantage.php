@@ -10,9 +10,10 @@
 
 
 
-<section class="well well1 parallax text-center" data-url="<?php bloginfo('template_directory')?>/img/parallax2.jpg" data-mobile="true"
-         data-speed="0.6">
+<section class="well well1 parallax text-center" data-url="<?php bloginfo('template_directory')?>/img/parallax2.jpg" data-mobile="true" data-speed="0.6">
+<!--    <div class="bg_advantage"></div>-->
     <div class="container">
+
         <h2>
             Наши преимущества
         </h2>
@@ -20,9 +21,6 @@
         <div class="row">
 
             <ul class="icon-list">
-
-
-
 
                 <li class="col-md-4 col-sm-6 col-sx-12 wow fadeInLeft" data-wow-delay=".3s" >
                     <span><img src="<?php bloginfo('template_directory')?>/img/map.png" alt=""></span>

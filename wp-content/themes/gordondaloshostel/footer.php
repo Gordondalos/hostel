@@ -113,19 +113,21 @@
 
 
                     <div class="lang">
-                        <a href="?page_id=2&lang=ru"> Руc</a> <br>
-                        <a href="?page_id=61&lang=en"> Eng</a>
+                        <a href="?page_id=2&lang=ru"><img src="<?php bloginfo('template_directory') ?>/img/rus.png" alt=""></a>
+                        <a href="?page_id=61&lang=en"><img src="<?php bloginfo('template_directory') ?>/img/eng.png" alt=""></a>
                     </div>
                     <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
                                                                             alt="logo"></a>
                     <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
-                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
+                    <a class="social" href="https://www.facebook.com/groups/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
+                    <a class="social" href="http://www.booking.com/hotel/ru/ula-hostel.ru.html"><img src="<?php bloginfo('template_directory') ?>/img/b.png" alt="logo"></a>
                 </div>
 <div class="col-sm-6 adress">
     <ul>
-        <li>Питербург, ул. Декабристов, 22</li>
-        <li><i class="fa fa-phone-square"></i>+7(333)555-55-55</li>
-        <li>pochta@example.com</li>
+        <li>г.	Санкт-Петербург, ул. Декабристов, 22</li>
+        <li><i class="fa fa-phone-square"></i>+7(812)571-63-63</li>
+        <li><i class="fa fa-phone-square"></i>+7(981)771-63-63</li>
+        <li>ulahostel@gmail.com</li>
     </ul>
 </div>
 

@@ -10,8 +10,8 @@
 
 
                     <div class="lang">
-                        <a href="?page_id=2&lang=ru"> Руc</a> <br>
-                        <a href="?page_id=61&lang=en"> Eng</a>
+                        <a href="?page_id=2&lang=ru"><img src="<?php bloginfo('template_directory') ?>/img/rus.png" alt=""></a>
+                        <a href="?page_id=61&lang=en"><img src="<?php bloginfo('template_directory') ?>/img/eng.png" alt=""></a>
                     </div>
                     <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
                                                      alt="logo"></a>
