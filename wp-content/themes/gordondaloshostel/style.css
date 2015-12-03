@@ -1517,7 +1517,18 @@ a.social img{
 
 }
 
+.accio{
+	font-size: 70px;
+}
 
+
+
+.wait{
+	letter-spacing: 2px;
+}
+.place{
+	letter-spacing: 6px;
+}
 
 .lang a{
 	color: #000;
@@ -2157,7 +2168,8 @@ h3.panel-title p{
 }
 
 .slider_down h2, .slider_down h6{
-	color: #000;
+	color: #fff;
+
 
 }
 
@@ -2166,12 +2178,12 @@ h3.panel-title p{
 }
 
 .slider_down .carousel-caption{
-	background-color: rgba(255,255,255,0.7) ;
+	background-color: rgba(0,0,0,0.7) ;
 }
 
 .slider_down h6{
-	color: #000;
-	font-size: 25px;
+	color: #fff;
+	font-size: 40px;
 
 
 }
@@ -2304,6 +2316,10 @@ footer .foot-bot{
 	text-align: justify;
 }
 
+#myCarousel .item{
+	height: 417px;
+}
+
 #myCarousel .btn{
 	color: white;
 	position: absolute;
@@ -2417,6 +2433,55 @@ footer .foot-bot{
 	content: "";
 	clear: both;
 }
+
+
+
+.item_news_wrapper{
+	height: 250px;
+	position: relative;
+	margin: 15px auto;
+
+}
+
+.item_news_wrapper a{
+	color: white;
+}
+
+.item_news_wrapper img{
+	width: 100%;
+	height: 250px;
+	position: absolute;
+	top:0;
+	left: 0;
+	z-index: 0;
+}
+
+.item_news_wrapper .text{
+	width: 100%;
+	height: 250px;
+	position: absolute;
+	top:0;
+	left: 0;
+	z-index: 1;
+	padding: 20px 10px;
+	text-align: center;
+	line-height: 20px;
+	
+}
+
+.item_news_wrapper .text:hover{
+	background-color: rgba(0,0,0,0.7);
+	-webkit-transition:all 0.5s ease ;
+	-moz-transition: all 0.5s ease ;
+	-o-transition: all 0.5s ease ;
+	transition: all 0.5s ease ;
+}
+
+
+
+
+
+
 
 
 @media screen and (max-width: 1200px){

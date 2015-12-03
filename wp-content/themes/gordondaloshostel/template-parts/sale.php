@@ -15,16 +15,14 @@
             <div class="bg-item-1 item">
                 <a href="?page_id=6">
                     <div class="text">
-                        <h4>Фиолетовая Юла</h4>
+                        <h4>Фиолетовая Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>
+                            В номере: двухъярусные кровати со шторками и бра для чтения, индивидуальные ящики для вещей, зеркало, вешалка для верхней одежды. Удобства (душ, туалет) и оборудованная кухня находятся на этаже.
                         </p>
                         <h6>500р/сутки</h6>
                         <br>
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-10</span>
 
                     </div>
@@ -35,16 +33,14 @@
             <div class="bg-item-2 item">
                 <a href="?page_id=6">
                     <div class="text1">
-                        <h4>Синяя Юла</h4>
+                        <h4>Синяя Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>
+                            В номере: двухъярусные кровати и бра для чтения, индивидуальные ящики для вещей, зеркало, вешалка для верхней одежды. Удобства (душ, туалет) и оборудованная кухня находятся на этаже.
                         </p>
                         <h6>550р/сутки</h6>
                         <br>
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-8</span>
 
                     </div>
@@ -55,16 +51,13 @@
             <div class="bg-item-3 item">
                 <a href="?page_id=6">
                     <div class="text2">
-                        <h4>Бирюзовая Юла</h4>
+                        <h4>Бирюзовая Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>В номере: двухъярусные кровати и бра для чтения, индивидуальные ящики для вещей, зеркало, вешалка для верхней одежды. Удобства (душ, туалет) и оборудованная кухня находятся на этаже.
                         </p>
                         <h6>600р/сутки</h6>
 
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-6</span>
 
                     </div>
@@ -73,16 +66,15 @@
             <div class="bg-item-4 item">
                 <a href="?page_id=6">
                     <div class="text3">
-                        <h4>Красная Юла</h4>
+                        <h4>Красная Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>В номере: двухъярусные кровати и бра для чтения, индивидуальные ящики для
+                            вещей, зеркало, вешалка для верхней одежды.
+                            Удобства (душ, туалет) и оборудованная кухня находятся на этаже.
                         </p>
                         <h6>2000р/сутки</h6>
 
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-2</span>
 
                     </div>
@@ -97,16 +89,15 @@
             <div class="bg-item-5 item">
                 <a href="?page_id=6">
                     <div class="text4">
-                        <h4>Лаймовая Юла</h4>
+                        <h4>Лаймовая Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>В номере: двухъярусные кровати и бра для чтения, индивидуальные ящики для
+                            вещей, зеркало, вешалка для верхней одежды.
+                            Удобства (душ, туалет) и оборудованная кухня находятся на этаже.
                         </p>
                         <h6>600р/сутки</h6>
                         <br>
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-6</span>
 
                     </div>
@@ -117,25 +108,24 @@
             <div class="bg-item-6 item">
                 <a href="?page_id=6">
                     <div class="text3">
-                        <h4>Красная Юла</h4>
+                        <h4>Красная Ula</h4>
 
-                        <p>Lorem Ipsum — это текст-«рыба»,
-                            часто используемый в печати и вэб-дизайне.
-                            Lorem Ipsum является стандартной «рыбой»
-                            для текстов на латинице с начала XVI века.
+                        <p>В номере: двухъярусные кровати и бра для чтения, индивидуальные ящики для
+                            вещей, зеркало, вешалка для верхней одежды.
+                            Удобства находятся на этаже.
                         </p>
                         <h6>700р/сутки </h6>
 
-                        <img src="<?php bloginfo('template_directory') ?>/img/bed.png" alt="bed">
+                        <img src="<?php bloginfo('template_directory') ?>/img/bed_w.png" alt="bed_w">
                         <span>1-4</span>
 
                     </div>
                     <a href="?page_id=6">
             </div>
             <div class="bg-item-7 item">
-                <a href="?page_id=6">
+                <a href="?cat=2">
                     <div class="text2">
-                        <h4>Администрация</h4>
+                        <h4>Новости	Петербурга</h4>
 
                         <p>Lorem Ipsum — это текст-«рыба»,
                             часто используемый в печати и вэб-дизайне.
@@ -154,7 +144,7 @@
             <div class="bg-item-8 item">
                 <a href="?page_id=6">
                     <div class="text">
-                        <h4>Столовая</h4>
+                        <h4>Общие пространства для наших гостей</h4>
 
                         <p>Lorem Ipsum — это текст-«рыба»,
                             часто используемый в печати и вэб-дизайне.

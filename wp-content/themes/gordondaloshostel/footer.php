@@ -116,9 +116,9 @@
                         <a href="?page_id=2&lang=ru"><img src="<?php bloginfo('template_directory') ?>/img/rus.png" alt=""></a>
                         <a href="?page_id=61&lang=en"><img src="<?php bloginfo('template_directory') ?>/img/eng.png" alt=""></a>
                     </div>
-                    <a class="social" href="https://vk.com/ulahostel"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
+                    <a class="social" href="https://www.instagram.com/ulahostel/"> <img src="<?php bloginfo('template_directory') ?>/img/instagram.png"
                                                                             alt="logo"></a>
-                    <a class="social" href="https://www.instagram.com/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
+                    <a class="social" href="https://vk.com/ulahostel"><img src="<?php bloginfo('template_directory') ?>/img/vk.png" alt="logo"></a>
                     <a class="social" href="https://www.facebook.com/groups/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
                     <a class="social" href="http://www.booking.com/hotel/ru/ula-hostel.ru.html"><img src="<?php bloginfo('template_directory') ?>/img/b.png" alt="logo"></a>
                 </div>

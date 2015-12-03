@@ -7,7 +7,7 @@
 //?>
 
 <section class="slider_down">
-    <h2>Акции в #ulahostel</h2>
+    <h2 class="accio">Акции в #UlaHostel</h2>
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
@@ -20,12 +20,12 @@
 
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="<?php bloginfo('template_directory') ?>/img/kalendar.jpg" alt="">
+                <img src="<?php bloginfo('template_directory') ?>/img/page-1_slide01.jpg" alt="">
 
                 <div class="container-fluide">
 
                     <div class="carousel-caption">
-                        <h6>Месяц проживания в хостеле всего 12.000 рублей</h6>
+                        <h6>Месяц проживания в хостеле <br> всего 12.000 рублей</h6>
 
 
                         <a href="#" class="btn btn-success btn-lg">Бронировать</a>
