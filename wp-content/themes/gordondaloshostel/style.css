@@ -1944,7 +1944,7 @@ a.social img{
 
 .sale .bg-item-4{
 	 position: relative;
-	 background-image: url("img/page-1_img05.jpg");
+	 background-image: url("img/red.jpg");
 	 background-position: center;
 	 background-size: cover;
 
@@ -1952,7 +1952,7 @@ a.social img{
 
 .sale .bg-item-5{
 	 position: relative;
-	 background-image: url("img/page-1_img01.jpg");
+	 background-image: url("img/lime.jpg");
 	 background-position:  30% 0;
 	 background-size: cover;
 
@@ -1960,7 +1960,7 @@ a.social img{
 
 .sale .bg-item-6{
 	position: relative;
-	background-image: url("img/page-1_img02.jpg");
+	background-image: url("img/red.jpg");
 	background-position:  30% 0;
 	background-size: cover;
 
@@ -1968,7 +1968,7 @@ a.social img{
 
 .sale .bg-item-7{
 	 position: relative;
-	 background-image: url("img/page-1_img03.jpg");
+	 background-image: url("img/petr.jpg");
 	 background-position:  30% 0;
 	 background-size: cover;
 
@@ -1976,7 +1976,7 @@ a.social img{
 
 .sale .bg-item-8{
 	position: relative;
-	background-image: url("img/page-1_img01.jpg");
+	background-image: url("img/obsh.jpg");
 	background-position:  30% 0;
 	background-size: cover;
 
@@ -2479,7 +2479,18 @@ footer .foot-bot{
 
 
 
+.adres_phone{
+	text-align: center;
 
+}
+
+.adres_phone h3{
+	text-align: center;
+	color: black;
+}
+.maps{
+	margin-bottom: 20px;
+}
 
 
 
