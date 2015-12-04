@@ -7,6 +7,7 @@
 
 <script src="<?php bloginfo('template_directory')?>/js/bootstrap.min.js"></script>
 <script src="<?php bloginfo('template_directory')?>/js/tm-scripts.js"></script>
+<script src="<?php bloginfo('template_directory')?>/js/my_menu.js"></script>
 
 <script type="text/javascript">
 

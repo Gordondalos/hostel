@@ -38,6 +38,7 @@ get_header(); ?>
 		<!-- Текст о нас -->
 <!--		--><?php //include "template-parts/about.php" ?>
 
+
 		<?php include "template-parts/sale.php" ?>
 
 

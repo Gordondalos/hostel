@@ -22,7 +22,7 @@
 
             <ul class="icon-list">
 
-                <li class="col-md-4 col-sm-6 col-sx-12 wow fadeInLeft" data-wow-delay=".3s" >
+                <li class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-delay=".3s" >
                     <span><img src="<?php bloginfo('template_directory')?>/img/map.png" alt=""></span>
 
                     <h6>
@@ -37,7 +37,7 @@
                     </p>
                 </li>
 
-                <li class="col-md-4 col-sm-6 col-sx-12 wow fadeInLeft" data-wow-delay=".2s" >
+                <li class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-delay=".2s" >
                     <span><img src="<?php bloginfo('template_directory')?>/img/secure.png" alt=""></span>
 
                     <h6>
@@ -56,7 +56,7 @@
                     </p>
                 </li>
 
-                <li class="col-md-4 col-sm-6 col-sx-12 wow fadeInLeft" data-wow-delay=".1s" >
+                <li class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-delay=".1s" >
                     <span><img src="<?php bloginfo('template_directory')?>/img/sofa.png" alt=""></span>
 
                     <h6>

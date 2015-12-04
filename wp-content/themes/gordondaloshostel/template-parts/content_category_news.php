@@ -29,7 +29,7 @@
                         while (have_posts()) : the_post(); ?>
 
                             <!-- Block item_news_wrapper -->
-                            <div class="col-md-4 ">
+                            <div class=" col-lg-4 col-md-6 col-sm-6 col-xs-12 ">
                                 <div class="item_news_wrapper">
 
                                     <a href="<?php the_permalink() ?>">
@@ -52,7 +52,7 @@
                         endwhile;
                         ?>
                     </div>
-                    <div class="col-md-3" style="margin-top: 15px;">
+                    <div class=" vidjet col-md-3" style="margin-top: 15px;">
                         <script type="text/javascript" src="//vk.com/js/api/openapi.js?121"></script>
 
                         <!-- VK Widget -->

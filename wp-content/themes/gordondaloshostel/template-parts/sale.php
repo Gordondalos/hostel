@@ -11,7 +11,7 @@
     <h2>Наши уютные номера</h2>
 
     <div class="row">
-        <div class="col-md-4 ">
+        <div class="col-md-4  col-sm-6">
             <div class="bg-item-1 item">
                 <a href="?page_id=6">
                     <div class="text">
@@ -29,7 +29,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-md-3 ">
+        <div class="col-md-3 col-sm-6">
             <div class="bg-item-2 item">
                 <a href="?page_id=6">
                     <div class="text1">
@@ -47,7 +47,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-md-5 ">
+        <div class="col-md-5 col-sm-12">
             <div class="bg-item-3 item">
                 <a href="?page_id=6">
                     <div class="text2">
@@ -85,7 +85,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3 ">
+        <div class="col-md-3 col-sm-6 ">
             <div class="bg-item-5 item">
                 <a href="?page_id=6">
                     <div class="text4">
@@ -104,7 +104,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-md-4 ">
+        <div class="col-md-4 col-sm-6 ">
             <div class="bg-item-6 item">
                 <a href="?page_id=6">
                     <div class="text3">
@@ -140,7 +140,7 @@
 
 
         </div>
-        <div class="col-md-5 ">
+        <div class="col-md-5 col-sm-12">
             <div class="bg-item-8 item">
                 <a href="?page_id=6">
                     <div class="text">
