@@ -1483,7 +1483,7 @@ header .entry-content{
 
 
 .logo{
-	float: left;
+	/*float: left;*/
 	max-height: 100px;
 	padding: 10px;
 
@@ -1538,14 +1538,14 @@ a.social img{
 
 }
 .navbar-nav{
-	margin-left: -124px;
+	/*margin-left: -124px;*/
 }
 
 .navbar-nav > li{
 	height: 100px;
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 10px;
+	margin-left: -10px;
 }
 
 .navbar-nav > li > a{
@@ -1555,19 +1555,11 @@ a.social img{
 	line-height: 100px;
 }
 
-/*Синенький треугольник меню*/
-.navbar-nav > li > a:before {
-	color: #6495B3;
-	border-color: transparent transparent #6495B3 transparent;
-	bottom: -7px;
-	display: none;
 
-}
 
 .navbar-nav > li + li{
 	margin-left: 10px;
 }
-
 
 
 .phone{
@@ -1877,7 +1869,8 @@ a.social img{
 .carousel-inner .carousel-caption {
 	position: absolute;
 	right: 15%;
-	bottom: 120px;
+	bottom: 50%;
+	transform: translateY(50%);
 	width: 100%;
 	min-height: 172px;
 	background-color: rgba(0,0,0,0.4);
@@ -1935,7 +1928,7 @@ a.social img{
 
 .sale .bg-item-3{
 	 position: relative;
-	 background-image: url("img/page-1_img04.jpg");
+	 background-image: url("img/birusa2.jpg");
 	 background-position: center;
 	 background-size: cover;
 
@@ -2310,7 +2303,6 @@ footer .foot-bot{
 	margin-top: 50px;
 }
 
-
 .entry p{
 	text-align: justify;
 }
@@ -2318,7 +2310,6 @@ footer .foot-bot{
 .mycontent p {
 	text-align: justify;
 }
-
 
 #myCarousel .btn{
 	color: white;
@@ -2490,10 +2481,147 @@ footer .foot-bot{
 	margin-bottom: 20px;
 }
 
+.hidden_menu{
+	position: fixed;
+	z-index: 1000;
+	top: 1px;
+	display: none;
+	background-color: white;
+	padding: 30px;
+	left: -300px;
+	height: 100%;
+
+}
+.hidden_menu ul{
+	margin: 0;
+}
+
+
+.hidden_menu .menu-main-container{
+	height: auto;
+}
+
+.hidden_menu .glyphicon-chevron-right{
+	position: absolute;
+}
+
+.arrow_left{
+	position: relative;
+}
+
+#hidden_menu .glyphicon-chevron-left{
+	position: absolute;
+	top: 0;
+	margin-top: -176px;
+	left: 170px;
+	padding: 20px;
+	border-radius: 10em;
+	color: grey;
+
+}
+#hidden_menu{
+	position: relative;
+}
+
+
+
+.hidden_menu li{
+	display: block;
+	padding: 5px 10px 10px ;
+	height: 45px;
+	margin: auto;
+	line-height: 20px;
+
+
+}
+
+.hidden_menu li:hover{
+
+}
+.hidden_menu li a{
+	line-height: 30px;
+	border-bottom: 1px solid grey;
+	color: black;
+}
+
+.toogle_menu{
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	z-index: 600;
+	display: none;
+
+}
+.toogle_menu a{
+	color: black;
+	padding: 10px 15px;
+	background-color: #fff;
+	border-radius: 6px;
+	font-size: 30px;
+	border: 1px solid grey;
+	
+	
+}
+
+.menu_btn{
+	margin: 20px auto;
+	color: white;
+	display: block;
+}
+.menu_btn:visited{
+	color: white;
+}
+
 
 
 
 @media screen and (max-width: 1200px){
+	.parallax_cnt p{
+		display: none;
+	}
+	.icon-list li:nth-child(n + 3){
+		margin-top: 0;
+	}
+
+	.icon-list li:nth-child(n + 2){
+		margin-top: 0;
+	}
+
+	.icon-list li:nth-child(n + 1){
+		margin-top: 0;
+	}
+	#myCarousel .btn{
+		transform: translate(-50%,-5px);
+	}
+	#myCarousel .carousel-indicators{
+		display: none;
+	}
+
+	.item_news_wrapper .text{
+		background-color: rgba(0,0,0,0.7);
+	}
+
+	.sale .text {
+		opacity: 1;
+	}
+	.sale .text1{
+		opacity: 1;
+	}
+
+	.sale .text2{
+		opacity: 1;
+	}
+	.sale .text3{
+		opacity: 1;
+	}
+
+	.sale .text4{
+		opacity: 1;
+	}
+	.sale p{
+		margin: 0 auto;
+	}
+
 
 }
 
@@ -2502,12 +2630,28 @@ footer .foot-bot{
 	.carousel-caption h2{
 		font-size: 20px;
 	}
+
+	#myCarousel .btn{
+		display: none;
+	}
+	.vidjet{
+		display: none;
+	}
+	.sale .col-sm-6{
+		margin-bottom: 0;
+		margin-top: 0;
+	}
 }
 
 @media screen and (max-width: 990px){
 	.bg-info h3{
 		margin-top: 20px;
 	}
+	.sale .item{
+		margin: 20px 0;
+	}
+
+
 }
 
 @media screen and (max-width: 758px){
@@ -2515,12 +2659,42 @@ footer .foot-bot{
 		padding-top: 0;
 	}
 
+	.hidden_menu{
+		display: block;
+	}
+
+	.parallax_cnt h2{
+		font-size: 40px;
+		margin-top: -40px;
+	}
+	.slider_down h2{
+		font-size: 40px;
+	}
+
+	.carousel-caption a.social img{
+	width: 35px;
+	}
+	#myCarousel p{
+		font-size: 20px;
+		line-height: 20px;
+		margin-top: 0;
+	}
+	#myCarousel h2{
+		margin-top: 15px;
+	}
+
 }
 
 
+.logo2{
+	display: none;
+}
+
 @media screen and (max-width: 600px){
-	#myCarousel{
-		display: none;
+
+
+	.logo2{
+		display: block;
 	}
 }
 
@@ -2528,4 +2702,17 @@ footer .foot-bot{
 	body {
 		padding-top: 0;
 	}
+	.logo2{
+		display: block;
+	}
+
+	.toogle_menu{
+		display: block;
+	}
+
+	.sale h2 {
+		font-size: 40px;
+	}
 }
+
+
