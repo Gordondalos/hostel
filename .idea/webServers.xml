@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d20db54e-1df3-408f-939e-c7458f26d8a3" name="hostel" url="http://ulahostel.ru">
+        <fileTransfer host="ulahostel.ru" port="21" rootFolder="/public_html" password="df98df9bdf98df99df9fdf9edf9fdf9cdf92df9ddf92df93" username="cf82888_gordon">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

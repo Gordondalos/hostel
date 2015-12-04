@@ -1555,7 +1555,7 @@ a.social img{
 	line-height: 100px;
 }
 
-/*Синенький треугольник меню*/
+/*РЎРёРЅРµРЅСЊРєРёР№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє РјРµРЅСЋ*/
 .navbar-nav > li > a:before {
 	color: #6495B3;
 	border-color: transparent transparent #6495B3 transparent;
@@ -2167,10 +2167,13 @@ h3.panel-title p{
 	margin-bottom: 100px;
 }
 
-.slider_down h2, .slider_down h6{
+.slider_down h2 {
+	color: #000;
+
+
+}
+.slider_down h6{
 	color: #fff;
-
-
 }
 
 .slider_down .item{
@@ -2316,9 +2319,6 @@ footer .foot-bot{
 	text-align: justify;
 }
 
-#myCarousel .item{
-	height: 417px;
-}
 
 #myCarousel .btn{
 	color: white;
@@ -2337,8 +2337,6 @@ footer .foot-bot{
 	float: left;
 	position: relative;
 	border-radius: 3px;
-
-
 
 }
 .img-post-wrap:before{
@@ -2420,8 +2418,8 @@ footer .foot-bot{
 
 .post_content .text p{
 
-	padding: 5px; /* Поля вокруг текста */
-	text-overflow: ellipsis; /* Добавляем многоточие */
+	padding: 5px; /* РџРѕР»СЏ РІРѕРєСЂСѓРі С‚РµРєСЃС‚Р° */
+	text-overflow: ellipsis; /* Р”РѕР±Р°РІР»СЏРµРј РјРЅРѕРіРѕС‚РѕС‡РёРµ */
 }
 
 

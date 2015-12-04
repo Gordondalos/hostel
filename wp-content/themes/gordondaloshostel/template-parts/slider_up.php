@@ -37,7 +37,7 @@
 
         </div>
         <div class="item ">
-            <img src="<?php bloginfo('template_directory') ?>/img/ula.png" alt="">
+            <img src="<?php bloginfo('template_directory') ?>/img/ula2.jpg" alt="">
 
             <div class="container-fluide">
                 <div class="carousel-caption">
@@ -58,7 +58,7 @@
                     <a class="social" href="https://www.facebook.com/groups/ulahostel/"><img src="<?php bloginfo('template_directory') ?>/img/facebook.png" alt="logo"></a>
 
 
-                    <p>Присоединяйтесь к нам <br> в Instagram, Вконтакте и Facebook</p>
+                    <p>Присоединяйтесь к нам  в Instagram, Вконтакте и Facebook</p>
                     <a href="#" class="btn btn-success btn-lg">Бронировать</a>
                 </div>
             </div>

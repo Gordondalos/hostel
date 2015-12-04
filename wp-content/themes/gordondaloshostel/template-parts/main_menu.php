@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="logo">
-                    <a href="/">
+                    <a href="<?php bloginfo('url'); ?>">
                         <img src="<?php bloginfo('template_directory') ?>/img/logo.png" alt="logo">
                     </a>
 
