@@ -1953,7 +1953,7 @@ a.social img{
 
 .sale .bg-item-6{
 	position: relative;
-	background-image: url("img/red.jpg");
+	background-image: url("img/red2.jpg");
 	background-position:  30% 0;
 	background-size: cover;
 
@@ -2154,10 +2154,16 @@ h3.panel-title p{
 	color: snow;
 }
 
+.slider_up{
+	text-align: center;
+
+	margin-bottom: 100px;
+}
+
 .slider_down{
 	text-align: center;
-	max-height: 500px;
-	margin-bottom: 100px;
+
+	margin-bottom: -170px;
 }
 
 .slider_down h2 {
@@ -2170,7 +2176,7 @@ h3.panel-title p{
 }
 
 .slider_down .item{
-	max-height: 500px;
+
 }
 
 .slider_down .carousel-caption{
@@ -2184,8 +2190,13 @@ h3.panel-title p{
 
 }
 
+.slider_up img{
+
+	width: 100%;
+}
+
 .slider_down img{
-	height: 500px;
+
 	width: 100%;
 }
 
