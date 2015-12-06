@@ -124,7 +124,7 @@
                 </div>
 <div class="col-sm-6 adress">
     <ul>
-        <li>г.	Санкт-Петербург, ул. Декабристов, 22</li>
+        <li>г.	Санкт-Петербург, <br> ул. Декабристов, 22</li>
         <li><i class="fa fa-phone-square"></i>+7(812)571-63-63</li>
         <li><i class="fa fa-phone-square"></i>+7(981)771-63-63</li>
         <li>ulahostel@gmail.com</li>

@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-md-4  col-sm-6">
             <div class="bg-item-1 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text">
                         <h4>Фиолетовая Ula</h4>
 
@@ -31,7 +31,7 @@
         </div>
         <div class="col-md-3 col-sm-6">
             <div class="bg-item-2 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text1">
                         <h4>Синяя Ula</h4>
 
@@ -49,7 +49,7 @@
         </div>
         <div class="col-md-5 col-sm-12">
             <div class="bg-item-3 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text2">
                         <h4>Бирюзовая Ula</h4>
 
@@ -64,7 +64,7 @@
                 </a>
             </div>
             <div class="bg-item-4 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text3">
                         <h4>Красная Ula</h4>
 
@@ -87,7 +87,7 @@
     <div class="row">
         <div class="col-md-3 col-sm-6 ">
             <div class="bg-item-5 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text4">
                         <h4>Лаймовая Ula</h4>
 
@@ -106,7 +106,7 @@
         </div>
         <div class="col-md-4 col-sm-6 ">
             <div class="bg-item-6 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text3">
                         <h4>Красная Ula</h4>
 
@@ -120,7 +120,7 @@
                         <span>1-4</span>
 
                     </div>
-                    <a href="?page_id=6">
+                    <a href="?cat=26">
             </div>
             <div class="bg-item-7 item">
                 <a href="?cat=2">
@@ -142,7 +142,7 @@
         </div>
         <div class="col-md-5 col-sm-12">
             <div class="bg-item-8 item">
-                <a href="?page_id=6">
+                <a href="?cat=26">
                     <div class="text">
                         <h4>Общие пространства для наших гостей</h4>
 
